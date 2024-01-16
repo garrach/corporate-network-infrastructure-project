@@ -3,7 +3,7 @@
 ## Table of Contents
 
 
-- [Sprint 1: Planning and Setup 🚀](#Planning)
+- [Sprint 1: Planning and Setup 🚀](#sprint-1-planning-and-setup)
 - [Sprint 2-3: Topology Design and Simulation 🌐](#sprint-2-3-topology-design-and-simulation)
 - [Sprint 4-5: Hardware and Software Selection 💻](#sprint-4-5-hardware-and-software-selection)
 - [Sprint 6-7: Configuration and Automation ⚙️](#sprint-6-7-configuration-and-automation)
@@ -17,7 +17,7 @@
 
 This project involves designing and implementing a secure and scalable corporate network infrastructure for a mid-sized company with multiple office locations. The primary objectives include establishing reliable communication between offices, providing centralized internet access, accommodating future growth, and ensuring robust security measures.
 
-## Sprint 1: Planning and Setup 🚀
+# Sprint 1: Planning and Setup 🚀
 
 **Goals:**
 
