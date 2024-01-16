@@ -7,11 +7,13 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 1: Planning and Setup
 
 **Goals:**
+
 - Define project objectives, user stories, and backlog.
 - Set up collaboration tools (e.g., Jira for backlog management).
 - Establish communication channels and roles within the Scrum team.
 
 **Activities:**
+
 1. Hold a sprint planning meeting to discuss project objectives and user stories.
 2. Create a product backlog, including user stories for each major aspect of the network project.
 3. Set up Jira or a similar tool for backlog management.
@@ -21,9 +23,11 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 2-3: Topology Design and Simulation
 
 **Goals:**
+
 - Design the network topology and simulate its functionality.
 
 **Activities:**
+
 1. Break down user stories related to topology design and simulation.
 2. Utilize Cisco Packet Tracer for designing and simulating the network.
 3. Hold regular sprint review and planning meetings to assess progress and plan for the next sprint.
@@ -32,9 +36,11 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 4-5: Hardware and Software Selection
 
 **Goals:**
+
 - Select networking hardware and software based on the design.
 
 **Activities:**
+
 1. Break down user stories related to hardware and software selection.
 2. Research and select networking hardware (routers, switches, firewalls) and software (Ansible, Snort).
 3. Document the chosen hardware and software specifications.
@@ -43,9 +49,11 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 6-7: Configuration and Automation
 
 **Goals:**
+
 - Begin the configuration of routers and switches using Ansible.
 
 **Activities:**
+
 1. Break down user stories related to configuration and automation.
 2. Start implementing Ansible scripts for device configuration.
 3. Conduct testing and validation of automated configurations.
@@ -54,9 +62,11 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 8-9: Security Implementation
 
 **Goals:**
+
 - Implement security measures using Cisco ASA and Snort.
 
 **Activities:**
+
 1. Break down user stories related to security implementation.
 2. Configure Cisco ASA firewalls for perimeter security.
 3. Integrate Snort for intrusion detection and prevention.
@@ -65,10 +75,12 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 10-11: VPN Setup and Quality of Service
 
 **Goals:**
+
 - Establish secure communication between offices (VPN).
 - Implement Quality of Service (QoS) policies.
 
 **Activities:**
+
 1. Break down user stories related to VPN setup and QoS implementation.
 2. Configure and test OpenVPN for secure communication.
 3. Implement QoS policies using Cisco features.
@@ -77,10 +89,12 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 12-13: Monitoring and Documentation
 
 **Goals:**
+
 - Set up network monitoring using Nagios.
 - Create comprehensive documentation.
 
 **Activities:**
+
 1. Break down user stories related to monitoring and documentation.
 2. Install and configure Nagios for network monitoring.
 3. Create detailed documentation for the network design, configurations, and security policies.
@@ -89,11 +103,13 @@ This project involves designing and implementing a secure and scalable corporate
 ## Sprint 14-15: Training, Handover, and Support
 
 **Goals:**
+
 - Conduct training sessions for IT staff.
 - Hand over documentation and credentials.
 - Define SLAs for post-implementation support.
 
 **Activities:**
+
 1. Break down user stories related to training and handover.
 2. Conduct training sessions for IT staff.
 3. Hand over documentation and credentials.
