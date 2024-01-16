@@ -3,7 +3,7 @@
 ## Table of Contents
 
 
-- [Sprint 1: Planning and Setup 🚀](#sprint-1-planning-and-setup)
+- [Sprint 1: Planning and Setup 🚀](#Planning)
 - [Sprint 2-3: Topology Design and Simulation 🌐](#sprint-2-3-topology-design-and-simulation)
 - [Sprint 4-5: Hardware and Software Selection 💻](#sprint-4-5-hardware-and-software-selection)
 - [Sprint 6-7: Configuration and Automation ⚙️](#sprint-6-7-configuration-and-automation)
