@@ -16,7 +16,7 @@
 
 This project involves designing and implementing a secure and scalable corporate network infrastructure for a mid-sized company with multiple office locations. The primary objectives include establishing reliable communication between offices, providing centralized internet access, accommodating future growth, and ensuring robust security measures.
 
-## [Sprint 1: Planning and Setup 🚀](#sprint-1-planning-and-setup)
+## [Sprint 1: Planning and Setup 🚀]
 
 **Goals:**
 
