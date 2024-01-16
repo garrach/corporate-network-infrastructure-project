@@ -1,5 +1,17 @@
 # 🌐 Corporate Network Infrastructure Project 🌐
 
+## Table of Contents
+
+1. [Sprint 1: Planning and Setup 🚀](#sprint-1-planning-and-setup)
+2. [Sprint 2-3: Topology Design and Simulation 🌐](#sprint-2-3-topology-design-and-simulation)
+3. [Sprint 4-5: Hardware and Software Selection 💻](#sprint-4-5-hardware-and-software-selection)
+4. [Sprint 6-7: Configuration and Automation ⚙️](#sprint-6-7-configuration-and-automation)
+5. [Sprint 8-9: Security Implementation 🔒](#sprint-8-9-security-implementation)
+6. [Sprint 10-11: VPN Setup and Quality of Service 🚀](#sprint-10-11-vpn-setup-and-quality-of-service)
+7. [Sprint 12-13: Monitoring and Documentation 📊](#sprint-12-13-monitoring-and-documentation)
+8. [Sprint 14-15: Training, Handover, and Support 🤝](#sprint-14-15-training-handover-and-support)
+9. [Sprint Review and Retrospective 🔄](#sprint-review-and-retrospective)
+
 ## Project Overview
 
 This project involves designing and implementing a secure and scalable corporate network infrastructure for a mid-sized company with multiple office locations. The primary objectives include establishing reliable communication between offices, providing centralized internet access, accommodating future growth, and ensuring robust security measures.
